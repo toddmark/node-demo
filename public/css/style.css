@@ -1,0 +1,22 @@
+body {
+  padding: 50px;
+  font-size: 14px;
+}
+
+#content {
+  width: 800px;
+  margin: 0 auto;
+}
+
+#room {
+  background: #ddd;
+  margin-bottom: 10px;
+}
+
+#messages {
+  width: 690px;
+  height: 300px;
+  overflow: auto;
+  background-color: #eee;
+  margin-bottom: 10px;
+}
