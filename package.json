@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "express": "^4.16.4",
+    "mime": "^2.4.0",
+    "mysql": "^2.16.0",
+    "socket.io": "^2.2.0"
+  },
+  "name": "express-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT"
+}
