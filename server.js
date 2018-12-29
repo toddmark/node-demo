@@ -53,3 +53,6 @@ var server = http.createServer(function(request, response) {
 server.listen(6661, function() {
   console.log('server listen');
 })
+
+var chatServer = require('./lib/chat_server');
+chatServer.listen(server);
