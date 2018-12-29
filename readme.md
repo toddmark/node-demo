@@ -11,3 +11,4 @@
   this.socket.emit('message', message);
 }
 ```
+4. usersInRoomSummary 变量位置问题导致undefined出现在客户端中
